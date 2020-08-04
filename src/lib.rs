@@ -197,7 +197,7 @@ impl Config {
             print_system_cflags: true,
             print_system_libs: true,
             cargo_metadata: true,
-            env_metadata: true,
+            env_metadata: false,
         }
     }
 
